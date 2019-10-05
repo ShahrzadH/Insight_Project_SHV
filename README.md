@@ -21,9 +21,9 @@ GuidedLDA notebook:
 this is the main notebook that shows the applying GuidedLDA to data. Guided LDA is basically incorporating the lexial prior into topic model. More on GuidedLDA can be found here: https://www.aclweb.org/anthology/E12-1021/. Python implementation of the gudied LDA can be found here:https://www.aclweb.org/anthology/E12-1021/
 
 ## What did I find in the data?
-Using GuidedLDA I could find 6 well-separated topics fo learning startegy in students reflections. 
+Using GuidedLDA I could find 6 well-separated topics of learning startegies in students reflections. 
 
 ## Recommendations
-Based on this work I recommended to the company to modify the platform so the number and amount of non relevant conent can be decreased. and use the suggested topics to find the volunerable stduents to allcoate the required resources and monitor the progress of the studnets across the platfrom.
+Based on this work I recommended to the company to modify the platform so the number and amount of non relevant conent can be decreased. and use the suggested topics to find the volunerable students to allcoate the required resources and monitor the progress of the studnets across the platfrom.
 This could reslut in scaling up the companies product across the US. 
 
