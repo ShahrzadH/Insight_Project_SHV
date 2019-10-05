@@ -1,7 +1,7 @@
 # Reflectometer
 
 ##  Overview
-The prevalent use of online platforms for interaction and large size of the text data from users’ input makes digesting the data increasingly time consuming. Sown to Grow (www.sowntogrow.com/)is an online educational company with the aim to empower students by providing a platform to set goals and reflect on strategies and interact with their teachers. In order for this company to be able to scale up across the US, they need to automate parsing reflections to enable the customized the feedback with priority given to students that no strategy has been identified in their reflections. 
+The prevalent use of online platforms for interaction and large size of the text data from users’ input makes digesting the data increasingly time consuming. Sown to Grow (www.sowntogrow.com/) is an online educational company with the aim to empower students by providing a platform to set goals and reflect on strategies and interact with their teachers. In order for this company to be able to scale up across the US, they need to automate parsing reflections to enable the customized the feedback with priority given to students that no strategy has been identified in their reflections. 
 
 ## What is Reflectometer?
 Reflectometer is a natural language understanding project that extracts the learning strategies from unstructured text data through various topic modelling techniques. In this repo, I am trying to show my thought process in tackling a real world problem of topic modelling in very informal text data. 
