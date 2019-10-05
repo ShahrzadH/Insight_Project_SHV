@@ -12,16 +12,12 @@ The data in this project was the provided by the company (Sown to Grow) which I 
 
 ## What can you find in this repo?
 Preprocessing notebook: 
--
 incldues speclling correction and lower casing, removing punctuation, lemmatziang and tokenizing the text.
 Perliminary topic modelling notebook:
--
 includes the prilimnary distribution of the keywords in each topic and the grid search showing the optimal number of the topics. As you will see lots of keywords are shared between the topics which makes identifying the topic for the bag of words impossible.
 Feature engineering notebook:
--
 is for extarcting the verbs and nouns from the text data and to use as feature for the next step.
 Guided LDA notebook:
--
 this is the main notebook that shows the applying GuidedLDA to data. Guided LDA is basically incorporating the lexial prior into topic model. More on GuidedLDA can be found here: https://www.aclweb.org/anthology/E12-1021/. Python implementation of the gudied LDA can be found here:https://www.aclweb.org/anthology/E12-1021/
 
 ## What did I find in the data?
