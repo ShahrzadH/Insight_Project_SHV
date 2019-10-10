@@ -5,7 +5,7 @@ The prevalent use of online platforms for interaction and large size of the text
 
 ## What is Reflectometer?
 Reflectometer is a natural language understanding project that extracts the learning strategies from unstructured text data through various topic modelling techniques. In this repo, I am trying to show my thought process in tackling a real world problem of topic modelling in very informal/conversational text data. 
-<images src="images/company.png" >
+<images src="images/mission.png" >
 
 ## Where did the data come from?
 The data in this project was the provided by the company (Sown to Grow) which I am consulting for. The dataset included about 180k of reflection document. The steps used for cleaning the data can be seen the corrsponding notebook in this repo with the name data cleaning.
