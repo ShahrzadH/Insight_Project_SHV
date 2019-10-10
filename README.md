@@ -7,7 +7,9 @@ The prevalent use of online platforms for interaction and large size of the text
 Reflectometer is a natural language understanding project that extracts the learning strategies from unstructured text data through various topic modelling techniques. In this repo, I am trying to show my thought process in tackling a real world problem of topic modelling in very informal/conversational text data. 
 
 
+
 <img src="images/mission.png" width='800' >
+
 
 
 ## Where did the data come from?
