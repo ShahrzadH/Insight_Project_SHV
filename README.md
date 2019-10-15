@@ -15,6 +15,11 @@ Reflectometer is a natural language understanding project that extracts the lear
 ## Where did the data come from?
 The data in this project was the provided by the company (Sown to Grow) which I am consulting for. The dataset included about 180k of reflection document. The steps used for cleaning the data can be seen the corrsponding notebook in this repo with the name data cleaning.
 
+
+
+<img src="images/wordcloud.png" width='800' >
+
+
 ## Strategies and Algorithms 
 ### Preprocessing notebook: 
 incldues speclling correction and lower casing, removing punctuation, lemmatziang and tokenizing the text.
